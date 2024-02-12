@@ -31,8 +31,9 @@ Managing your computer spare parts has never been easier! This Java-based backen
 
 Ensure you have the following ready before diving into the Computer Spare Part Management Shop:
 
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 19 or higher
 - Modern web browser
+- Apache tomcat 10.1
 
 ## Installation
 
