@@ -9,7 +9,6 @@ Welcome to the Computer Spare Part Management Shop, your go-to place for all you
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
