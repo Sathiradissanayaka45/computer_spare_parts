@@ -43,5 +43,4 @@ git clone https://github.com/Sathiradissanayaka45/computer_spare_parts
 # Navigate to the project directory
 cd computer-spare-parts
 
-# Install dependencies
-mvn install
+
