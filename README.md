@@ -8,7 +8,6 @@ Welcome to the Computer Spare Part Management Shop, your go-to place for all you
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
