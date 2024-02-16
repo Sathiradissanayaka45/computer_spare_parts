@@ -36,6 +36,4 @@ public class Feedback {
 	public String getfeedbacks() {
 		return feedback;
 	}
-
-
 }
