@@ -14,8 +14,7 @@ public class Feedback {
 		this.date = date;
 		this.name = name;
 		this.feedback = feedback;
-
-	}
+         }
 	
 	public Feedback() {
 		// TODO Auto-generated constructor stub
