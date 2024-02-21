@@ -88,7 +88,7 @@ public class CustomerDBUtil implements iCustomerDButil {
 		return customer;
 	}
 	
-	//Create
+	//Insert customer to system
 	public boolean insertcustomer(String name, String phone, String email, String username, String password)
 	{
 		boolean isSuccess = false;
