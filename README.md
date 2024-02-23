@@ -35,7 +35,7 @@ Ensure you have the following ready before diving into the Computer Spare Part M
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/Sathiradissanayaka45/computer_spare_parts.git
 
 
 
