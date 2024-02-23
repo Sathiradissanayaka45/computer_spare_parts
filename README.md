@@ -35,7 +35,7 @@ Ensure you have the following ready before diving into the Computer Spare Part M
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Sathiradissanayaka45/tour-guide_system.git
+   git clone 
 
 
 
