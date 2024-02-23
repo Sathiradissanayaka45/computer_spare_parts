@@ -6,7 +6,7 @@ Welcome to the Computer Spare Part Management Shop, your go-to place for all you
 - [Introduction](#introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Prerequisites](#clone-the-repository)
+- [Clone the repository](#clone-the-repository)
 
 ## Introduction
 
