@@ -34,13 +34,6 @@ Ensure you have the following ready before diving into the Computer Spare Part M
 
 ## Installation
 
-Clone the repository and set up the required dependencies. For example:
 
-```bash
-# Clone the repository
-git clone https://github.com/Sathiradissanayaka45/computer_spare_parts
-
-# Navigate to the project directory
-cd computer-spare-parts
 
 
