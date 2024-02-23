@@ -32,7 +32,7 @@ Ensure you have the following ready before diving into the Computer Spare Part M
 - Modern web browser
 - Apache tomcat 10.1
 
-Clone the repository
+## Clone the repository
 
    ```bash
    git clone https://github.com/Sathiradissanayaka45/computer_spare_parts.git
