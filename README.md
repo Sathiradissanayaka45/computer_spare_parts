@@ -10,7 +10,7 @@ Welcome to the Computer Spare Part Management Shop, your go-to place for all you
 
 ## Introduction
 
-Managing your computer spare parts has never been easier! This Java-based backend, HTML, CSS, and JavaScript-powered system brings you a seamless experience for purchasing, tracking requests, managing appointments, and securing your transactions.
+Managing your computer spare parts has never been easier! This Java-based backend, HTML, CSS, Bootstrap and JavaScript-powered system brings you a seamless experience for purchasing, tracking requests, managing appointments, and securing your transactions.
 
 ## Features
 
